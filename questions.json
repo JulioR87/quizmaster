@@ -1,0 +1,79 @@
+[
+    {
+        "pregunta": "¿Cual es la capital de Francia?",
+        "opciones": ["Londres", "Paris", "Berlin", "Madrid"],
+        "respuesta": "Paris"
+    },
+    {
+        "pregunta": "¿En que año llego el hombre a la luna?",
+        "opciones": ["1965", "1969", "1972", "1980"],
+        "respuesta": "1969"
+    },
+    {
+        "pregunta": "¿Quien pinto la Mona Lisa?",
+        "opciones": ["Picasso", "Da Vinci", "Van Gogh", "Miguel Angel"],
+        "respuesta": "Da Vinci"
+    },
+    {
+        "pregunta": "¿Cual es el oceano mas grande del mudo?",
+        "opciones": ["Atlantico", "Indico", "Pacifico", "Artico"],
+        "respuesta": "Pacifico"
+    },
+    {
+        "pregunta": "¿Cual es el planeta mas grande del sistema solar?",
+        "opciones": ["Marte", "Saturno", "Jupiter", "Venus"],
+        "respuesta": "Jupiter"
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["Amazonas", "Nilo", "Misisipi", "Yangtsé"],
+        "respuesta": "Amazonas"
+    },
+    {
+        "pregunta": "¿Qué elemento químico tiene el símbolo 'Au'?",
+        "opciones": ["Plata", "Oro", "Cobre", "Hierro"],
+        "respuesta": "Oro"
+    },
+    {
+        "pregunta": "¿En qué país se encuentran las ruinas de Machu Picchu?",
+        "opciones": ["Colombia", "México", "Perú", "Bolivia"],
+        "respuesta": "Perú"
+    },
+    {
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": ["Mario Vargas Llosa", "Gabriel García Márquez", "Julio Cortázar", "Pablo Neruda"],
+        "respuesta": "Gabriel García Márquez"
+    },
+    {
+        "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "opciones": ["Tibia", "Húmero", "Fémur", "Radio"],
+        "respuesta": "Fémur"
+    },
+    {
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": ["1914", "1939", "1945", "1929"],
+        "respuesta": "1939"
+    },
+    {
+        "pregunta": "¿Cuál es el país con mayor extensión territorial del planeta?",
+        "opciones": ["Canadá", "Estados Unidos", "China", "Rusia"],
+        "respuesta": "Rusia"
+    },
+    {
+        "pregunta": "¿Cuál es el instrumento principal que toca un pianista?",
+        "opciones": ["Teclado", "Cuerda frotada", "Viento madera", "Percusión pura"],
+        "respuesta": "Teclado"
+    },
+    {
+        "pregunta": "¿Qué gas respiramos principalmente para vivir?",
+        "opciones": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+        "respuesta": "Oxígeno"
+    },
+    {
+        "pregunta": "¿En qué ciudad italiana se encuentra el Coliseo?",
+        "opciones": ["Florencia", "Venecia", "Roma", "Milán"],
+        "respuesta": "Roma"
+    }
+
+    
+]

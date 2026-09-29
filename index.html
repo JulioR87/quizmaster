@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuizMaster</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+     <!-- PRIMERA SECCION: LANDING PAGE -->
+     <div id="landing-section" class="container">
+        <header>
+            <h1>QuizMaster</h1>
+        </header>
+        <main class="landing-main">
+            <h2>Pon aprueba tu mente con <span>QuizMaster</span></h2>
+            <p>¿Cuanto sabes? ¡Demuestralo!</p>
+
+            <div  class="card-login">
+                <label for="nickname">Tu nombre o nickname</label>
+                <input type="text" id="nickname" placeholder="Ej. Carlos">
+                <button id="btn-iniciar">Iniciar juego</button>
+            </div>
+        </main>
+     </div>
+
+     <!-- SEGUNDA SECCION: ZONA DE JUEGO -->
+      <div id="game-section" class="container hidden">
+        <header class="game-header">
+            <h2>QuizMaster</h2>
+            <div class="user-info">
+                <span id="display-jugador">Jugador</span>
+                <span id="display-ronda">Ronda 1 de 2</span>
+            </div>
+        </header>
+
+        <!-- Contenedor de preguntas -->
+         <div id="rounds-container"></div>
+
+         <!-- Botón de comprobacion -->
+          <button id="btn-comprobar">Comprobar respuesta</button>
+      </div>
+
+     <!-- MODAL -->
+      <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <h2 id="modal-title">¡Felicidades!</h2>
+            <p id="modal-text">Has ganado el concurso</p>
+            <div id="modal-stats"></div>
+            <button id="modal-btn">Volver a jugar</button>
+        </div>
+      </div>
+
+      <script src="app.js"></script>
+
+</body>
+</html>
